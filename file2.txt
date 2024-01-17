@@ -1,0 +1,5 @@
+hello this lines are i'm adding after the moving to  staging area.
+list series :
+    1.fork
+    2.pull
+    3.log
